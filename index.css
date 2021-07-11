@@ -1,0 +1,67 @@
+body{
+    background-color: cyan;
+}
+
+img {
+    position: absolute;
+    float: right;
+    height: 160px;
+    width: 160px;
+    left: 1200px;
+    top: 270px;
+
+    
+
+}
+  span {
+      color: blueviolet;
+  
+  }
+  h1 {
+      margin: 0.5%;
+      font-size: 22px;
+      font-weight: bold;
+      color: blue;
+  }
+  p {
+      font-size: 15px;
+      align-content: left;
+      margin: 0.5%;
+    
+  }
+  #isaac {
+    display: flex;
+}
+
+
+#isaac div{
+    padding: 10px 20px 10px 20px;
+    margin: 0 5px 0 5px;
+    text-align: start;
+    background-color: cornflowerblue;
+    opacity: 0.9;
+
+}
+#isaac>div{
+    background: burlywood;
+    opacity: 0.9;
+}
+h3 {
+    /* color: blue;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace; */
+    margin: 0.5%;
+      font-size: 22px;
+      font-weight: bold;
+      color: blue;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 5px;
+    width: 100%;
+    height: 10%;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+  }
