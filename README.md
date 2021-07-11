@@ -5,7 +5,7 @@ The mentioned site (Kiruis-Portfolio) is a portfolio platform of a full-stack en
 ## Description
 Kiruis-Portfolio is a website system that showcase the experience of a full-stack engineer called Isaac Kirui Parikacha. It demonstrates his experience to the potential empoloyers. The portfolio has some of the projects, he has completed so far, something that demonstrates his ability in handling projects.
 ## Setup/Installation Requirements
-Users can access the system by entering the url of the website.
+Users can access the system by entering the url of the website. The users do not need any installation when interacting with this portfolio. All they need is the site's url.
 ## Known Bugs
 The website system (Kiruis-Portfolio) has no known bugs.
 ## Technologies Used
