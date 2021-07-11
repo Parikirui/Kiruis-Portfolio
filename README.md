@@ -18,6 +18,6 @@ In case of any issues while using the system, users can reach out to the site de
 1. Phone_Number: +254708541280
 2. Email: isaackirui45@gmail.com
 ### License
-Copyright@Kiruis-Portfolio. All rights Reserved.
+Copyright@Kiruis-Portfolio. All rights Reserved. 2021.
 
   
