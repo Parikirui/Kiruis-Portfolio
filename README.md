@@ -1,6 +1,6 @@
 ## Kiruis-Portfolio
 The mentioned site (Kiruis-Portfolio) is a portfolio platform of a full-stack engineer called Isaac Parikacha Kirui.
-## Contributors
+## Contributor
 1. Isaac Kirui Parikacha
 ## Description
 Kiruis-Portfolio is a website system that showcase the experience of a full-stack engineer called Isaac Kirui Parikacha. It demonstrates his experience to the potential empoloyers. The portfolio has some of the projects, he has completed so far, something that demonstrates his ability in handling projects.
